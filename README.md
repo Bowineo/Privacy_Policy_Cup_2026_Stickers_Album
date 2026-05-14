@@ -1,10 +1,6 @@
 # Privacy Policy
 
 <p align="center">
-  <img src="./app-banner.png" alt="Album 2026" width="220"/>
-</p>
-
-<p align="center">
   <img src="./app-preview.png" alt="Album 2026 Preview" width="300"/>
 </p>
 
